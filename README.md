@@ -1,2 +1,2 @@
 # transformers
-learning how to use transformers.js
+re-learning how to use transformers.js
